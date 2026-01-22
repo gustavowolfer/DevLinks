@@ -8,5 +8,6 @@ function toggleMode() {
     img.setAttribute("alt", "Doutor foto filtro branco")
   } else {
     img.setAttribute("src", "./assets/avatar.png")
+    img.setAttribute("alt", "Doutor foto")
   }
 }
