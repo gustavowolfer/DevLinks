@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-- Figma (utilizei the file assets download)
+- Figma (I used the downloaded assets folder.)
 - Canva
 
 ## 💻 Projeto
