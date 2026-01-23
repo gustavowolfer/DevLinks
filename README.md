@@ -27,6 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma (I used the downloaded assets folder.)
 - Canva
+- Ferramenta de captura do windows
 
 ## 💻 Projeto
 
