@@ -54,11 +54,15 @@ body * {
   transform: translateY(-50%);
   top: 50%;
   left: 0;
+  animation: slide-comeback 0.2s;
 }
 
 .light #switch button {
-  right: 0;
-  left: initial;
+  animation: slide-in 0.4s forwards;
+}
+
+#switch button:hover {
+  outline: 8px solid var(--highlight--color);
 }
 
 #switch span {
@@ -143,4 +147,23 @@ footer {
   --surface--color-hover: rgba(0, 0, 0, 0.02);
   --highlight--color: rgba(0, 0, 0, 0.1);
   --switch--bg--url: url(./assets/sun.svg);
+}
+
+@keyframes slide-in {
+  from {
+    left: 0;
+  }
+
+  to {
+    left: 50%;
+  }
+}
+
+@keyframes slide-comeback {
+  from {
+    left: 50%;
+  }
+  to {
+    left: 0;
+  }
 }
