@@ -2,7 +2,7 @@
 
 <p align="center">
 TCC Discover da Rocketseat <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+
 </p>
 
 <p align="center">
@@ -33,9 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online, caso ao clicar em um link e o mesmo não funcione é pq eu não possuo o conteudo dele, como exemplo ter canal no youtube.
 
-- [Acesse o projeto original, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto, online](https://gustavowolfer.github.io/DevLinks)
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Acesse o projeto original, online](https://maykbrito.github.io/devlinks)
 
 ## 🔖 Layout
 
