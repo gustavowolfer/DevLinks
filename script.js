@@ -4,8 +4,8 @@ function toggleMode() {
   const img = document.querySelector("#profile img")
 
   if (html.classList.contains("light")) {
-    img.setAttribute("src", "./assets/profile.png")
-    img.setAttribute("alt", "Doutor foto filtro branco")
+    img.setAttribute("src", "./assets/Profile.png")
+    img.setAttribute("alt", "Foto de perfil")
   } else {
     img.setAttribute("src", "./assets/avatar.jpg")
     img.setAttribute("alt", "Doutor foto")
